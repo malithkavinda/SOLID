@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\SOLID\\OpenClose\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|f:\\solid\\openclose\\openclose\\calculation\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|solutionrelative:openclose\\calculation\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|f:\\solid\\openclose\\openclose\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|solutionrelative:openclose\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|f:\\solid\\openclose\\openclose\\calculation\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|solutionrelative:openclose\\calculation\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|f:\\solid\\openclose\\openclose\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|solutionrelative:openclose\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|f:\\solid\\openclose\\openclose\\openclose.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|solutionrelative:openclose\\openclose.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|f:\\solid\\openclose\\openclose\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{42707E70-69FD-4AD7-9145-1AE2804F63E3}|OpenClose\\OpenClose.csproj|solutionrelative:openclose\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "F:\\SOLID\\OpenClose\\OpenClose\\Calculation\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "OpenClose\\Calculation\\SavingAccount.cs",
+              "ToolTip": "F:\\SOLID\\OpenClose\\OpenClose\\Calculation\\SavingAccount.cs",
+              "RelativeToolTip": "OpenClose\\Calculation\\SavingAccount.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:05:31.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "F:\\SOLID\\OpenClose\\OpenClose\\Calculation\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "OpenClose\\Calculation\\CurrentAccount.cs",
+              "ToolTip": "F:\\SOLID\\OpenClose\\OpenClose\\Calculation\\CurrentAccount.cs",
+              "RelativeToolTip": "OpenClose\\Calculation\\CurrentAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:05:30.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\SOLID\\OpenClose\\OpenClose\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "OpenClose\\Model\\Account.cs",
+              "ToolTip": "F:\\SOLID\\OpenClose\\OpenClose\\Model\\Account.cs",
+              "RelativeToolTip": "OpenClose\\Model\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:05:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenClose",
+              "DocumentMoniker": "F:\\SOLID\\OpenClose\\OpenClose\\OpenClose.csproj",
+              "RelativeDocumentMoniker": "OpenClose\\OpenClose.csproj",
+              "ToolTip": "F:\\SOLID\\OpenClose\\OpenClose\\OpenClose.csproj",
+              "RelativeToolTip": "OpenClose\\OpenClose.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T16:05:17.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "F:\\SOLID\\OpenClose\\OpenClose\\.gitignore",
+              "RelativeDocumentMoniker": "OpenClose\\.gitignore",
+              "ToolTip": "F:\\SOLID\\OpenClose\\OpenClose\\.gitignore",
+              "RelativeToolTip": "OpenClose\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-11T13:00:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SOLID\\OpenClose\\OpenClose\\Program.cs",
+              "RelativeDocumentMoniker": "OpenClose\\Program.cs",
+              "ToolTip": "F:\\SOLID\\OpenClose\\OpenClose\\Program.cs",
+              "RelativeToolTip": "OpenClose\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:57:42.959Z",
+              "EditorCaption": ""
             }
           ]
         }
