@@ -1,0 +1,15 @@
+F:\SOLID\OpenClose\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.exe
+F:\SOLID\OpenClose\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.deps.json
+F:\SOLID\OpenClose\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.runtimeconfig.json
+F:\SOLID\OpenClose\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.dll
+F:\SOLID\OpenClose\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.pdb
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.AssemblyInfoInputs.cache
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.AssemblyInfo.cs
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.csproj.CoreCompileInputs.cache
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.sourcelink.json
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.dll
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\refint\LiskovSubstitution.dll
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.pdb
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.genruntimeconfig.cache
+F:\SOLID\OpenClose\LiskovSubstitution\obj\Debug\net8.0\ref\LiskovSubstitution.dll
