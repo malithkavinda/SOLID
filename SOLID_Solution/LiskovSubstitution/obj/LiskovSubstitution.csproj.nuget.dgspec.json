@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SOLID\\OpenClose\\LiskovSubstitution\\LiskovSubstitution.csproj": {}
+    "F:\\SOLID\\SOLID_Solution\\LiskovSubstitution\\LiskovSubstitution.csproj": {}
   },
   "projects": {
-    "F:\\SOLID\\OpenClose\\LiskovSubstitution\\LiskovSubstitution.csproj": {
+    "F:\\SOLID\\SOLID_Solution\\LiskovSubstitution\\LiskovSubstitution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SOLID\\OpenClose\\LiskovSubstitution\\LiskovSubstitution.csproj",
+        "projectUniqueName": "F:\\SOLID\\SOLID_Solution\\LiskovSubstitution\\LiskovSubstitution.csproj",
         "projectName": "LiskovSubstitution",
-        "projectPath": "F:\\SOLID\\OpenClose\\LiskovSubstitution\\LiskovSubstitution.csproj",
+        "projectPath": "F:\\SOLID\\SOLID_Solution\\LiskovSubstitution\\LiskovSubstitution.csproj",
         "packagesPath": "C:\\Users\\MCS\\.nuget\\packages\\",
-        "outputPath": "F:\\SOLID\\OpenClose\\LiskovSubstitution\\obj\\",
+        "outputPath": "F:\\SOLID\\SOLID_Solution\\LiskovSubstitution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MCS\\AppData\\Roaming\\NuGet\\NuGet.Config",

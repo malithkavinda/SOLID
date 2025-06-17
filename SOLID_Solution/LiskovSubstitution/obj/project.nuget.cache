@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cMsvWvAcApdEWVQNEa9WLGMcobZYM4Ii/nTHiwc7ZNZzcFd6Kk4Kal8PgcT7NV1NPM42MSoK+JlY7tqFwteJEg==",
+  "dgSpecHash": "dazrwUs1Ohi3j8RBs2bwSod3pvsXMnO+VKZOm89PCUya8g3rrcjcFe55pOekbEZMLrTrxqUoQPff6DhY3pcmYQ==",
   "success": true,
-  "projectFilePath": "F:\\SOLID\\OpenClose\\LiskovSubstitution\\LiskovSubstitution.csproj",
+  "projectFilePath": "F:\\SOLID\\SOLID_Solution\\LiskovSubstitution\\LiskovSubstitution.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
